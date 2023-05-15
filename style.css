@@ -16,6 +16,8 @@ body {
 
 .cabecalho-imagem{
     width: 20%;
+    margin: 20;
+    padding: 20;
 }
 
 .cabecalho-lista-item{
@@ -25,7 +27,7 @@ body {
 }
 
 .escola-imagem{
-    width: 25%;
+    width: 25px
 }
 
 .escola{
@@ -84,17 +86,12 @@ body {
    
 }
 
-.feinha {
-    height: 5px;
-    width: 5px;
-}
-
 .maça imagem {
     height: 5px;
     width: 2px;
 }
 
-.mousse limão {
-    height: 5px
-    width:  2px;
+.mousse.jpg {
+    height: 5px;
+
 }
