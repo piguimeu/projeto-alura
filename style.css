@@ -90,9 +90,10 @@ body {
     width: 200px;
 }
 .maça imagem{
-    height: 150px;
-    width: 200px;
+    height:80px;
+    width: 100px;
 }
 .estudante-nome{
     font-size: 15px;
+    background-color: #f19090;
 }
