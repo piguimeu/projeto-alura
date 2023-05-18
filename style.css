@@ -86,8 +86,8 @@ body {
     width: 200px;
 }
 .estudante-imagem{
-    height: 150px;
-    width: 200px;
+    height: 20px;
+    width: 30px;
 }
 .maça imagem{
     height:20px;
@@ -96,4 +96,6 @@ body {
 .estudante-nome{
     font-size: 15px;
     background-color: #f19090;
+    display: flex;
+    align-items: center;
 }
