@@ -67,8 +67,8 @@ body {
 }
 
 .estudante-titulo{
-    text-align:left;
-    padding: 20px 0;
+    text-align:justify;
+    padding: 10px 0;
 }
 
 .estudante-todos{
