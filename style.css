@@ -98,12 +98,18 @@ body {
     background-color: #f19090;
     display: flex;
     align-items: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 .maca-do-amor- {
-    height: 126px;
+    height: 156px;
     width: 135px;
 }
 .retrato2 { 
     height:126px;
     width:135px;
+}
+.isaisa{
+    font-size: 15px;
+    display: flex;
+    align-items: normal;font-family: Georgia, 'Times New Roman', Times, serif;
 }
