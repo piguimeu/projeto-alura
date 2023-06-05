@@ -95,16 +95,15 @@ body {
     width: 10px;
 }
 .estudante-nome {
-    font-size: 15px;
+    font-size: 25px;
     background-color: #f19090;
     display: flex;
     align-items: center;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: Georgia, 'Times New Roman', Times, serif
 }
 .maca-do-amor- {
     height: 156px;
-    width: 135px;
-    text-decoration-color: aliceblue;
+    width: 135px;   
 }
 .retrato2 { 
     height:126px;
