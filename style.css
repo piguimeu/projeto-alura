@@ -13,6 +13,9 @@ body {
     align-items: flex-start; ;
     padding: 50px 50;
 }
+.escola-texto-um{
+    font-size: 25px;
+}
 
 .cabecalho-imagem{
     width: 20%;
@@ -34,9 +37,9 @@ body {
     background-image: linear-gradient(#df7289,#e476a4);
     color:rgb(35, 230, 181);
     display: flex;
-    justify-content: center;
-    align-items: center;
-    padding: 24px 0;
+    justify-content; flex-wrap: wrap;
+    align-items: flex-start;
+    padding: 50px; 50;
 }
 
 .escola-div-conteudo{
