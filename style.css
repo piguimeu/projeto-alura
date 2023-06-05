@@ -9,8 +9,8 @@ body {
     background-color: #f19090;
     color: rgb(10, 3, 3);
     display: flex;
-    justify-content: space-around;
-    align-items: normal;
+    justify-content; flex-wrap: wrap;
+    align-items: flex-start; ;
     padding: 50px 50;
 }
 
