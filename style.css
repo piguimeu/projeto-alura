@@ -84,6 +84,7 @@ body {
 .retrato2{
     height: 15px;
     width: 20px;
+    text-align:left;
 }
 .estudante-imagem{
     height: 20px;
@@ -103,13 +104,15 @@ body {
 .maca-do-amor- {
     height: 156px;
     width: 135px;
+    text-decoration-color: aliceblue;
 }
 .retrato2 { 
     height:126px;
     width:120px;
+    text-align: left;
 }
 .isaisa {
-    font-size: 15px;
+    font-size: 25px;
     display: flex;
     align-items: normal;
     font-family: Georgia, 'Times New Roman', Times, serif;
