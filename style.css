@@ -10,7 +10,7 @@ body {
     color: rgb(10, 3, 3);
     display: flex;
     justify-content: space-around;
-    align-items: center;
+    align-items: normal;
     padding: 50px 50;
 }
 
