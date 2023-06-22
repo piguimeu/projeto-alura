@@ -35,9 +35,9 @@ body {
 
 .escola{
     background-image: linear-gradient(#df7289,#e476a4);
-    color:rgb(35, 230, 181);
+    color:rgb(245, 245, 245);
     display: flex;
-    justify-content; flex-wrap: wrap;
+    justify-content: space-around;
     align-items: flex-start;
     padding: 50px; 50;
 }
@@ -118,4 +118,9 @@ body {
     display: flex;
     align-items: normal;
     font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.felicidade {
+    align-items: center;
+    display: flex;
+
 }
