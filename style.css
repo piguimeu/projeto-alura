@@ -118,9 +118,12 @@ body {
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 .felicidadeimg {
-    align-items: center;
-    display: flex;
     height: 156px;
-    width:135px ;
+    width: 160px;
+    display: flex;
+    justify-content; flex-wrap: wrap;
+    align-items: flex-start; ;
+    padding: 50px 50;
+}
 
 }
